@@ -65,7 +65,7 @@
   canvas.focus();
 
   const script = document.createElement("script");
-  script.src = "https://raw.githubusercontent.com/Igu2012/doom/main/doom.js";
+  script.src = "https://cdn.jsdelivr.net/gh/Igu2012/doom@main/doom.js";
   script.defer = true;
   document.body.appendChild(script);
 })();
