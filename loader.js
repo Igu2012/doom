@@ -1,0 +1,1 @@
+(()=>{const s=document.createElement("script");s.src="https://raw.githubusercontent.com/SEU_USER/SEU_REPO/main/index.js";document.body.appendChild(s)})();
